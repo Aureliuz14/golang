@@ -7,8 +7,8 @@ func Segitiga(a float64, b float64) float64 {
 	return 0.5 * a * b
 }
 
-func Persegi(a float64, b float64) float64 {
-	return a * b
+func Persegi(a float64) float64 {
+	return a * a
 }
 
 func Lingkaran(r float64) float64 {

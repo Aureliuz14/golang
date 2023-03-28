@@ -15,5 +15,7 @@ func main() {
 	r := 14
 	fmt.Println(geometry.Lingkaran(float64(r)))
 
+	fmt.Println(geometry.Persegi(a))
+
 	fmt.Println(geometry.Segitiga(a, b))
 }
