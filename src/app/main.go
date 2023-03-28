@@ -22,6 +22,4 @@ func main() {
 	fmt.Println(calculator.Multiply(int(a), int(b)))
 
 	fmt.Println(calculator.Add(int(a), int(b)))
-	
-	fmt.Println(calculator.Subtract(int(a),int(b)))
 }
