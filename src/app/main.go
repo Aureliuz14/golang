@@ -18,4 +18,6 @@ func main() {
 	fmt.Println(geometry.Persegi(a))
 
 	fmt.Println(geometry.Segitiga(a, b))
+
+	fmt.Println(calculator.Multiply(int(a), int(b)))
 }
