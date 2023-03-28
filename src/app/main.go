@@ -20,4 +20,6 @@ func main() {
 	fmt.Println(geometry.Segitiga(a, b))
 
 	fmt.Println(calculator.Multiply(int(a), int(b)))
+
+	fmt.Println(calculator.Add(int(a), int(b)))
 }
