@@ -11,7 +11,7 @@ func Print(p model.Person) {
 	fmt.Println(p.Username, p.Password)
 }
 
-func main() {
+func main2() {
 	a := 5.0
 	b := 3.0
 
