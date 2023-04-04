@@ -94,7 +94,7 @@ func menu() {
 	fmt.Println("[Choose 5 for exit]")
 }
 
-func main() {
+func main3() {
 	for {
 		judul()
 		menu()
