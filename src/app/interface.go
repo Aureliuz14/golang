@@ -37,7 +37,7 @@ func ShowMenu() {
 	fmt.Println("2. Output To File")
 	fmt.Println("3. Exit")
 }
-func main() {
+func main8() {
 	/*
 		d := model.Square{}
 		d.SetSide(5.0)
