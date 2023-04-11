@@ -40,7 +40,7 @@ func harihari() {
 	date.SetDay(hari2)
 }
 
-func main() {
+func main5() {
 
 	tahuntahun()
 	for i := 0; i < 3; i++ {

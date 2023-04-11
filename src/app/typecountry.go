@@ -29,7 +29,7 @@ func (input m) toMilimeter() m {
 	return input * 10000
 }
 
-func main() {
+func main4() {
 	var input1 km
 	var input2 m
 
