@@ -33,7 +33,7 @@ func minnumber(data ...float64) float64 {
 	return min
 }
 
-func main() {
+func main11() {
 	fmt.Println("Opening file...")
 	f, err := os.Open("data.txt")
 
